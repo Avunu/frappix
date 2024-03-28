@@ -22,7 +22,7 @@
       ];
     };
 
-  # try to stick with a relesed version for a while
+  # try to stick with a released version for a while
   inputs.nixpkgs.url = "github:nixos/nixpkgs/release-23.11";
 
   inputs = {
